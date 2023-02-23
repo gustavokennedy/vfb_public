@@ -4,8 +4,6 @@ VFB - Vehicle Finance Business - Sistema para agilizar o financiamento nas Reven
 ## O sistema
 O sistema precisa cadastrar o cliente, com informações padrões de todos os bancos e simular o financiamento de forma automática. O resultado será uma tabela dentro do cadastro do cliente com os dados da simulação de cada banco.
 
-#### Observações: Geralmente os bancos solicitam acesso, o que será fornecido login e senha. O sistema precisa ter controle para gerenciamento de outras revendas, no caso revender o sistema.
-
 
 ## Funcionalidades
 
