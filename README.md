@@ -2,7 +2,7 @@
 VFB - Vehicle Finance Business - Sistema para agilizar o financiamento nas Revendas de Veículos. O financeiro precisa preencher em vários bancos as mesmas informações para simular o financiamento, o que acaba demorando o processo.
 
 ## O sistema
-O sistema precisa cadastrar o cliente, com informações padrões de todos os bancos e simular o financiamento de forma automática. O resultado será uma tabela dentro do cadastro do cliente com os dados da simulação de cada banco.
+O sistema cadastra o cliente, com informações padrões de todos os bancos e simular o financiamento de forma automática. O resultado será uma tabela dentro do cadastro do cliente com os dados da simulação de cada banco.
 
 
 ## Funcionalidades
